@@ -1,0 +1,19 @@
+{
+  "name": "discover_pokemon",
+  "version": "0.0.0",
+  "description": "An api that will help query pokemon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logbaseaofn/discover_pokemon.git"
+  },
+  "author": "Logan Grosz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logbaseaofn/discover_pokemon/issues"
+  },
+  "homepage": "https://github.com/logbaseaofn/discover_pokemon#readme"
+}
