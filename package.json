@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/logbaseaofn/discover_pokemon/issues"
   },
-  "homepage": "https://github.com/logbaseaofn/discover_pokemon#readme"
+  "homepage": "https://github.com/logbaseaofn/discover_pokemon#readme",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
 }
